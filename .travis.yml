@@ -1,0 +1,10 @@
+before_install:
+
+
+language: cpp
+
+compiler:
+  - g++
+
+script:
+  - g++ hello.cpp -o hello
