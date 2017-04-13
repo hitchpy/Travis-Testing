@@ -1,4 +1,4 @@
-https://travis-ci.org/hitchpy/Travis-Testing.svg?branch=master
+[![Build Status](https://travis-ci.org/hitchpy/Travis-Testing.svg?branch=master)](https://travis-ci.org/hitchpy/Travis-Testing)
 
 # Travis-Testing
 Testing repo for Travis CI
