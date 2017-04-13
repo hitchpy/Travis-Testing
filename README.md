@@ -1,3 +1,5 @@
+https://travis-ci.org/hitchpy/Travis-Testing.svg?branch=master
+
 # Travis-Testing
 Testing repo for Travis CI
 
